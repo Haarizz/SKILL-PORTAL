@@ -1,0 +1,38 @@
+div.c{
+
+background-color:royalblue;
+
+margin-left: 250px;
+margin-right: 10px;
+text-align: right;
+word-spacing: 20px;
+
+}
+a{
+padding:2px;
+
+
+
+color: white;
+
+text-decoration: none;
+
+}
+a:hover{
+background-color: #4287f5;
+
+}
+div.b{
+background-color: royalblue;
+color: white;
+height: 40px;
+}
+tr{
+background-color: grey;
+}
+td{
+text-align: center;
+}
+#top{
+background-color: darkblue;
+}
